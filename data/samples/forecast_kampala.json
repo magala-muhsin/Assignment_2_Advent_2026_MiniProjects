@@ -1,0 +1,65 @@
+{
+  "timezone": "Africa/Kampala",
+  "daily_units": {
+    "temperature_2m_max": "°C",
+    "temperature_2m_min": "°C",
+    "precipitation_sum": "mm",
+    "wind_speed_10m_max": "km/h"
+  },
+  "daily": {
+    "time": [
+      "2026-10-16",
+      "2026-10-17",
+      "2026-10-18",
+      "2026-10-19",
+      "2026-10-20",
+      "2026-10-21",
+      "2026-10-22"
+    ],
+    "temperature_2m_max": [
+      27,
+      28,
+      26,
+      25,
+      27,
+      29,
+      28
+    ],
+    "temperature_2m_min": [
+      19,
+      20,
+      19,
+      18,
+      19,
+      20,
+      19
+    ],
+    "precipitation_sum": [
+      2,
+      0,
+      8,
+      12,
+      5,
+      0,
+      1
+    ],
+    "wind_speed_10m_max": [
+      12,
+      10,
+      14,
+      16,
+      11,
+      9,
+      13
+    ],
+    "weather_code": [
+      61,
+      2,
+      63,
+      95,
+      61,
+      1,
+      80
+    ]
+  }
+}

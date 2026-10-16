@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "name": "Kampala",
+      "latitude": 0.3163,
+      "longitude": 32.5822,
+      "country": "Uganda",
+      "admin1": "Central Region",
+      "timezone": "Africa/Kampala"
+    }
+  ]
+}
